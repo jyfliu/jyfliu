@@ -1,5 +1,7 @@
 omg did you know that you can have a profile readme now??
 
+[resume](Jeffrey Liu Resume.pdf)
+
 <!--
 **jyfliu/jyfliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
