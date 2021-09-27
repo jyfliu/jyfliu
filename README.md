@@ -1,6 +1,6 @@
-omg did you know that you can have a profile readme now??
+Hi, I'm Jeffrey!!
 
-<!--my [resume](https://github.com/jyfliu/jyfliu/blob/master/Jeffrey%20Liu%20Resume.pdf)
+[Resume](https://jeffr.ee/resumes/Jeffrey%20Liu%20Resume%20-%20F21.pdf)
 
 <!--
 **jyfliu/jyfliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
