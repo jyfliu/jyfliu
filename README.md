@@ -1,6 +1,6 @@
 Hi, I'm Jeffrey!!
 
-[Resume](https://jeffr.ee/resumes/Jeffrey%20Liu%20Resume%20-%20F21.pdf)
+[Resume](https://jeffr.ee/resumes/Jeffrey%20Liu%20Resume%20-%20W23.pdf)
 
 <!--
 **jyfliu/jyfliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
